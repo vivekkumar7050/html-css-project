@@ -1,8 +1,8 @@
 # 🎵 Spotify Landing Page
 
-A responsive Spotify landing page clone built using **HTML5 and CSS3**.
+A responsive Spotify landing page clone built using HTML5 and CSS3.
 
-### 🛠️ Technologies
+ Technologies
 
 * HTML5
 * CSS3
@@ -10,7 +10,7 @@ A responsive Spotify landing page clone built using **HTML5 and CSS3**.
 * CSS Grid
 * Responsive Design
 
-### ✨ Features
+ Features
 
 * Clean & modern UI
 * Responsive layout
